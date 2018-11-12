@@ -41,3 +41,5 @@ Within the two results directories sub-directories contain results calculated wi
 ## simulated-topologies
 
 Amber forcefield topology (`prmtop`) and coordinate (`inpcrd` and `pdb`) files for all ligand for both the `2oss` and `4bjx` structures.
+
+[![DOI](https://zenodo.org/badge/156712132.svg)](https://zenodo.org/badge/latestdoi/156712132)
