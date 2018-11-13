@@ -1,6 +1,6 @@
 This repository contains data and simulation input from the paper:
 
-"Application of ESMACS binding free energy protocols to diverse datasets:Bromodomain-containing protein 4" David W. Wright, Shunzhou Wan, Christophe Meyer, Herman van Vlijmen, Christophe Meyer, Gary Tresadern, and Peter V. Coveney
+"Application of ESMACS binding free energy protocols to diverse datasets:Bromodomain-containing protein 4", David W. Wright, Shunzhou Wan, Christophe Meyer, Herman van Vlijmen, Christophe Meyer, Gary Tresadern, and Peter V. Coveney
 
 Preprint DOI: [10.26434/chemrxiv.7327019](https://dx.doi.org/10.26434/chemrxiv.7327019)
 
